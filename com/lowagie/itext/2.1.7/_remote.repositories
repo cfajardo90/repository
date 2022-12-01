@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 18:55:46 CEST 2022
+itext-2.1.7.pom>nexus-sina=
+itext-2.1.7.jar>nexus-sina=
+itext-2.1.7-sources.jar>nexus-sina=

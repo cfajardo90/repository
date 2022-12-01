@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 07 09:31:08 COT 2022
+https\://raw.githubusercontent.com/cfajardo90/repository/repository/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1649341868041
+http\://0.0.0.0/.error=Could not transfer artifact com.lowagie\:itext\:jar\:sources\:2.1.7.js9 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-default-http-blocker (http\://0.0.0.0/, default, releases+snapshots), jasper-releases (http\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1649341867995
+https\://repo.maven.apache.org/maven2/.error=
+https\://raw.githubusercontent.com/cfajardo90/repository/repository/.lastUpdated=1649341867993
